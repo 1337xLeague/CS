@@ -1,0 +1,7 @@
+m_flEncodedController
+4 properties
+
+Single 000
+Single 001
+Single 002
+Single 003

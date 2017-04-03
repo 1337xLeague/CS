@@ -1,0 +1,11 @@
+m_flLazyCapPerc
+8 properties
+
+Single 000
+Single 001
+Single 002
+Single 003
+Single 004
+Single 005
+Single 006
+Single 007
