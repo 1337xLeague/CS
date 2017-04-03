@@ -1,0 +1,5 @@
+DT_CSTeam, base DT_Team
+2 properties
+
+DataTable baseclass ("DT_Team")
+Int32 m_iAssassinationTarget

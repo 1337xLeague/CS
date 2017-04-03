@@ -1,0 +1,20 @@
+_ST_m_hActorList_16
+17 properties
+
+DataTable lengthproxy ("_LPT_m_hActorList_16")
+Int32 000
+Int32 001
+Int32 002
+Int32 003
+Int32 004
+Int32 005
+Int32 006
+Int32 007
+Int32 008
+Int32 009
+Int32 010
+Int32 011
+Int32 012
+Int32 013
+Int32 014
+Int32 015
